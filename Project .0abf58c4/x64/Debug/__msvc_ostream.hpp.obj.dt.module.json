@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project .0abf58c4\\x64\\Debug\\__msvc_ostream.obj",
+            "outputs": [
+                "Project .0abf58c4\\x64\\Debug\\__msvc_ostream.hpp.obj.dt.module.json",
+                "Project .0abf58c4\\x64\\Debug\\__msvc_ostream.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

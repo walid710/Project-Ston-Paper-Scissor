@@ -1,0 +1,40 @@
+﻿  Project Ston-Paper-Scissor.cpp
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsString.h(54,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsString.h(59,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsString.h(71,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsString.h(208,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsString.h(339,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsString.h(387,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsUtil.h(78,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(49,7): warning C4240: nonstandard extension used: access to 'clsDataProcessing::enGameChoice' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+      D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(29,7):
+      see declaration of 'clsDataProcessing::enGameChoice'
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(55,7): warning C4240: nonstandard extension used: access to 'clsDataProcessing::enWhoPlayingWith' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+      D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(24,7):
+      see declaration of 'clsDataProcessing::enWhoPlayingWith'
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(60,7): warning C4240: nonstandard extension used: access to 'clsDataProcessing::enWHoWinner' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Ston-Paper-Scissor.cpp')
+      D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(37,7):
+      see declaration of 'clsDataProcessing::enWHoWinner'
+  
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(273,1): warning C4715: 'clsDataProcessing::WhoWonTheRound': not all control paths return a value
+D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\clsDataProcessing.h(232,1): warning C4715: 'clsDataProcessing::ChoiceName': not all control paths return a value
+  Project Ston-Paper-Scissor.vcxproj -> D:\مشاريع OOP\مشروع ورقة حجرة مقص\Project Ston-Paper-Scissor\x64\Debug\Project Ston-Paper-Scissor.exe

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project .0abf58c4\\x64\\Debug\\Project Ston-Paper-Scissor.obj",
+            "outputs": [
+                "Project .0abf58c4\\x64\\Debug\\Project Ston-Paper-Scissor.cpp.obj.dt.module.json",
+                "Project .0abf58c4\\x64\\Debug\\Project Ston-Paper-Scissor.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

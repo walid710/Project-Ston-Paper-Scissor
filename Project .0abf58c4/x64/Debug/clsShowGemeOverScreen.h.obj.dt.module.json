@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project .0abf58c4\\x64\\Debug\\clsShowGemeOverScreen.obj",
+            "outputs": [
+                "Project .0abf58c4\\x64\\Debug\\clsShowGemeOverScreen.h.obj.dt.module.json",
+                "Project .0abf58c4\\x64\\Debug\\clsShowGemeOverScreen.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
